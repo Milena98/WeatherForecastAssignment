@@ -1,0 +1,1 @@
+The WeatherForecast API provides forecast and historical weather data for specified cities and dates. The API consumes data from an external weather api (https://api.weatherapi.com/v1/) and maps it to a standardized response format.
